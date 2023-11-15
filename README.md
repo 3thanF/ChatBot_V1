@@ -20,3 +20,5 @@ Once Python is installed, you can clone the repository and start interacting wit
 Start a conversation with the chatbot by typing your message. The chatbot will respond based on its current knowledge and learn from the interaction.
 
 Example:
+
+<img src="https://github.com/3thanF/ChatBot_V1/blob/main/Chatbot.png"/>
